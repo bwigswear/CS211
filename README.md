@@ -1,7 +1,5 @@
 CS 211: Computer Architecture
 
-Rutgers 2021 Fall Semester
-
 PA 1 : Several smaller C programs that exhibit basic I/O behavior
 
 PA 2 : A simple machine-learning algorithm that estimates home prices, based on a list of parameters.
